@@ -54,16 +54,3 @@ class Matrix:
                 new_matrix.append(temp)
             return Matrix(new_matrix)
         raise ValueError("Матрица неправильного размера")
-
-    def __pow__(self, power):
-        """
-        Возведение матрицы в степень путём умножения на себя указанное количество раз
-        :param power: Степень
-        :return: Новый объект класса Matrix
-        """
-        new_matrix = Matrix(self.matrix.copy())
-
-        for _ in range(power - 1):
-            new_matrix = self * new_matrix
-
-        return new_matrix

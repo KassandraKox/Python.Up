@@ -1,0 +1,4 @@
+2023-08-08 08:54:56,412 INFO - date_log = Dates(Year=2023, Month=7, Day=29, user_text='5-я суббота июля')
+2023-08-08 08:55:13,468 INFO - date_log = Dates(Year=2023, Month=8, Day=5, user_text='1-я суббота августа')
+2023-08-08 08:55:23,625 INFO - date_log = Dates(Year=2023, Month=8, Day=1, user_text='1-я вторник августа')
+2023-08-08 08:55:42,190 INFO - date_log = Dates(Year=2023, Month=8, Day=1, user_text='1-й вторник августа')

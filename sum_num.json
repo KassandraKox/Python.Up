@@ -1,0 +1,26 @@
+[
+  {
+    "args": [
+      3,
+      5
+    ],
+    "kwargs": {},
+    "result": 8
+  },
+  {
+    "args": [
+      1,
+      1
+    ],
+    "kwargs": {},
+    "result": 2
+  },
+  {
+    "args": [
+      4,
+      6
+    ],
+    "kwargs": {},
+    "result": 10
+  }
+]
